@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/e334a3ba-1d22-4c63-91d1-8df2a2e79ffe)# Ex.No: 6               HOLT WINTERS METHOD
+# Ex.No: 6               HOLT WINTERS METHOD
 ### Date: 
 
 
